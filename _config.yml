@@ -1,14 +1,29 @@
+name: loretto
+favicon: null
 layout_spectrum: 0.4412588
 typography_spectrum: 0.9864668
+title: Nomad.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5701005
-  lightness: 0.3429378
-  brandStrength: 1
   brandColors:
     - '#06030B'
     - '#391E0F'
     - '#654120'
     - '#A3642F'
     - '#FEFEFE'
+  brandStrength: 1
+  lightness: 0.3429378
+  saturation: 0.5701005
   rhythmicContrast: 0.7275959
-name: loretto
+purpose: []
